@@ -1,0 +1,85 @@
+html{
+  margin-top: 100px;
+	background-color white ;
+	background: url('steal.png');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+	background-size: 25%;
+  background
+}
+
+}
+body{
+	font-family: 'Old Standard TT', serif;
+}
+
+h1 {
+	text-align: center;
+	margin-top: -20px;
+}
+div {
+	text-align: center;
+	max-width: 50%;
+	border: 10px solid blue;
+	height: 90%;
+	margin: auto;
+	margin-top: 10%;
+	padding-top: 10px;
+	border-radius: 20px;
+}
+button{
+  font-family: 'Old Standard TT', serif;
+	border-radius: 10px;
+	background-color: red;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	display: inline-block;
+  font-family: 'Old Standard TT', serif;
+	padding: 4px;
+}
+.button {
+	padding: 10px;
+	margin-left: 15px;
+}
+.one {
+	color: blue;
+	font-size: 35px;
+}
+.two {
+	color: red;
+	font-size: 45px;
+}
+.three {
+	color: red;
+	font-size: 20px;
+}
+.four {
+	color: blue;
+	font-size: 25px;
+}
+.five {
+	color: black;
+	font-size: 20px;
+	background-color:red;
+}
+.six {
+	color: blue;
+	font-size: 30px;
+}
+.seven {
+	color: white;
+	font-size: 22px;
+	background-color: red;
+	border-radius: 20px;
+}
+.eight {
+	color: gray;
+	font-size: 35px;
+}
+.nine {
+	color: red;
+}
